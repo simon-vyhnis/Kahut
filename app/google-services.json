@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52689068574",
+    "firebase_url": "https://kahuuuut.firebaseio.com",
+    "project_id": "kahuuuut",
+    "storage_bucket": "kahuuuut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52689068574:android:053ce28617c9ee13c8440f",
+        "android_client_info": {
+          "package_name": "com.simcom.kahut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52689068574-aenlsessgqfka93vf436d19mf6ueqv8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcom.kahut",
+            "certificate_hash": "f95aaf2725752f2922c72fb30f75c94dfa82dc16"
+          }
+        },
+        {
+          "client_id": "52689068574-it59l0vmlomlnri6v3oc2ej95sbo9m0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8VKCk-IkHlo3pnmWXCVA8tUdaN8GjACQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52689068574-it59l0vmlomlnri6v3oc2ej95sbo9m0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
